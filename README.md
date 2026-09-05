@@ -22,7 +22,7 @@ Consolidate order level data into a single interactive view that lets stakeholde
 - ⏱️ **Average Delivery Time** — average days from order to fulfillment, a proxy for operational efficiency
 - 🔖 **Order Reference** — ties the summary KPIs back to the underlying order level detail
 
-### 💡 Business Impact & Insights
+### 💡 Business Insights
 - 🏆 Pinpoints which categories and sub-categories carry the most revenue versus which underperform, supporting inventory and marketing prioritization
 - ⚖️ Separates high-revenue categories from high-profit categories
 - 🚩 Flags regions or ship modes with longer delivery times, pointing to where fulfillment operations may need attention
